@@ -3,4 +3,4 @@
 a= input()
 n=int(a)
 
-print('%x'%n)
+print('%x'%n) 
